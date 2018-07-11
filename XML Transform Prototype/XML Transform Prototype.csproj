@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='Windows-1252'?>
+<VisualStudioProject>
+  <CSHARP ProjectType='Web' ProductVersion='7.10.3077' SchemaVersion='2.0' ProjectGuid='{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}'>
+    <Build>
+      <Settings ApplicationIcon='' AssemblyKeyContainerName='' AssemblyName='WebApplication6' AssemblyOriginatorKeyFile='' DefaultClientScript='JScript' DefaultHTMLPageLayout='Grid' DefaultTargetSchema='IE50' DelaySign='false' OutputType='Library' PreBuildEvent='' PostBuildEvent='' RootNamespace='WebApplication6' RunPostBuildEvent='OnBuildSuccess' StartupObject=''>
+        <Config Name='Debug' AllowUnsafeBlocks='false' BaseAddress='285212672' CheckForOverflowUnderflow='false' ConfigurationOverrideFile='' DefineConstants='DEBUG;TRACE' DocumentationFile='' DebugSymbols='true' FileAlignment='4096' IncrementalBuild='false' NoStdLib='false' NoWarn='' Optimize='false' OutputPath='bin\' RegisterForComInterop='false' RemoveIntegerChecks='false' TreatWarningsAsErrors='false' WarningLevel='4' />
+        <Config Name='Release' AllowUnsafeBlocks='false' BaseAddress='285212672' CheckForOverflowUnderflow='false' ConfigurationOverrideFile='' DefineConstants='TRACE' DocumentationFile='' DebugSymbols='false' FileAlignment='4096' IncrementalBuild='false' NoStdLib='false' NoWarn='' Optimize='true' OutputPath='bin\' RegisterForComInterop='false' RemoveIntegerChecks='false' TreatWarningsAsErrors='false' WarningLevel='4' />
+      </Settings>
+      <References>
+        <Reference Name='System' AssemblyName='System' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.dll' />
+        <Reference Name='System.Drawing' AssemblyName='System.Drawing' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll' />
+        <Reference Name='System.Data' AssemblyName='System.Data' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Data.dll' />
+        <Reference Name='System.Web' AssemblyName='System.Web' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Web.dll' />
+        <Reference Name='System.XML' AssemblyName='System.Xml' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.XML.dll' />
+        <Reference Name='System.Windows.Forms' AssemblyName='System.Windows.Forms' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll' />
+        <Reference Name='System.Design' AssemblyName='System.Design' HintPath='..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Design.dll' />
+        <Reference Name='Dell.Picasso' AssemblyName='Dell.Picasso' HintPath='bin\Dell.Picasso.dll' Private='True' />
+        <Reference Name='Infragistics.WebUI.UltraWebTab.v4.3' AssemblyName='Infragistics.WebUI.UltraWebTab.v4.3' HintPath='C:\Program Files\Infragistics\NetAdvantage 2004 Volume 3\asp.net\bin\Infragistics.WebUI.UltraWebTab.v4.3.dll' AssemblyFolderKey='hklm\Infragistics.WebAssemblies.20043' />
+        <Reference Name='Infragistics.WebUI.Shared.v4.3' AssemblyName='Infragistics.WebUI.Shared.v4.3' HintPath='C:\Program Files\Infragistics\NetAdvantage 2004 Volume 3\asp.net\bin\Infragistics.WebUI.Shared.v4.3.dll' AssemblyFolderKey='hklm\Infragistics.WebAssemblies.20043' />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath='AssemblyInfo.cs' BuildAction='Compile' />
+        <File RelPath='Global.asax' SubType='Component' BuildAction='Content' />
+        <File RelPath='Global.asax.cs' DependentUpon='Global.asax' SubType='Code' BuildAction='Compile' />
+        <File RelPath='Global.asax.resx' DependentUpon='Global.asax.cs' BuildAction='EmbeddedResource' />
+        <File RelPath='licenses.licx' BuildAction='EmbeddedResource' />
+        <File RelPath='Web.config' BuildAction='Content' />
+        <File RelPath='WebForm1.aspx' SubType='Form' BuildAction='Content' />
+        <File RelPath='WebForm1.aspx.cs' DependentUpon='WebForm1.aspx' SubType='ASPXCodeBehind' BuildAction='Compile' />
+        <File RelPath='WebForm1.aspx.resx' DependentUpon='WebForm1.aspx.cs' BuildAction='EmbeddedResource' />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>

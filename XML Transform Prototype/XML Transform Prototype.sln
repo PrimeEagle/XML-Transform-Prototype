@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Transform Prototype", "http://localhost/WebApplication6/XML Transform Prototype.csproj", "{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}.Debug.ActiveCfg = Debug|.NET
+		{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}.Debug.Build.0 = Debug|.NET
+		{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}.Release.ActiveCfg = Release|.NET
+		{7D58B0B4-9E38-4DA1-890A-59BB76FE9462}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
